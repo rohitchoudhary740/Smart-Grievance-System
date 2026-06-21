@@ -184,9 +184,6 @@ To create a transparent, accountable, AI-assisted grievance redressal ecosystem 
 
 Classic Coders
 
-Rohit Choudhary (Team Lead)
-Pradhumna Malviya
-Gaurav Kumavat
-Sumit
+
 
 Built for Delhi Government Grievance Dashboard Initiative.
