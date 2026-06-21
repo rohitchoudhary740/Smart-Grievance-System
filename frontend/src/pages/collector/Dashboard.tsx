@@ -68,7 +68,7 @@ export default function CollectorDashboard() {
   const criticalNow = ESCALATED.filter(e => e.level === 'COLLECTOR');
 
   return (
-    <SidebarLayout navItems={NAV} title="Divisional Commissioner">
+    <SidebarLayout navItems={NAV} title="CM Monitoring Console">
       <LiveAlertPanel />
 
       {/* Header */}
@@ -79,7 +79,7 @@ export default function CollectorDashboard() {
               🔒 READ-ONLY
             </span>
             <span className="text-xs font-semibold text-gray-500">
-              Divisional Commissioner — Madhya Pradesh
+              CM Monitoring Console — Madhya Pradesh
             </span>
           </div>
           <h1 className="text-2xl font-bold text-gray-900">State-Level Command Center</h1>
