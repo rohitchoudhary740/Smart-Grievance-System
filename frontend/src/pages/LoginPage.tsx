@@ -10,7 +10,7 @@ import { GovTopBar, AshokaChakra } from '../components/shared/GovTopBar';
 import { useT } from '../context/i18nStore';
 
 const DEMO_ROLES = [
-  { label: 'Div. Commissioner', sub: 'State Overview — 5 Cities', email: 'admin@demo-city.gov',   password: 'admin123',   icon: '🏅', color: '#7c3aed', dest: '/collector/dashboard' },
+  { label: 'CM Monitoring Console', sub: 'State Overview — 5 Cities', email: 'admin@demo-city.gov',   password: 'admin123',   icon: '🏅', color: '#7c3aed', dest: '/collector/dashboard' },
   { label: 'Collector / Admin', sub: 'Command Centre Access',     email: 'admin@demo-city.gov',   password: 'admin123',   icon: '🏛️', color: '#FF6B00', dest: '/admin/dashboard'     },
   { label: 'Nodal Officer',     sub: 'Field Operations',          email: 'officer@demo-city.gov', password: 'officer123', icon: '👮', color: '#138808', dest: '/officer/dashboard'   },
   { label: 'Citizen',           sub: 'Lodge Grievance',           email: 'citizen@demo-city.gov', password: 'citizen123', icon: '👤', color: '#003087', dest: '/citizen/dashboard'   },
